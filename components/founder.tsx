@@ -13,7 +13,7 @@ export function Founder() {
         <figure className="mx-auto w-full max-w-md lg:col-span-5 lg:max-w-none">
           <div className="relative aspect-[4/5] overflow-hidden rounded-3xl bg-ember">
             <Image
-              src="/images/founder.jpg"
+              src="/images/founder.jpeg"
               alt="Emmanuel Mensah, founder of EM Control Tech Solutions, in a brown tweed three-piece suit"
               fill
               sizes="(min-width: 1024px) 40vw, (min-width: 448px) 28rem, 100vw"
