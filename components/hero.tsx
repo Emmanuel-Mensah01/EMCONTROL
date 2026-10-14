@@ -25,7 +25,7 @@ export function Hero() {
           >
             <span className="relative size-8 overflow-hidden rounded-full bg-ember">
               <Image
-                src="/images/founder.jpg"
+                src="/images/founder.jpeg"
                 alt=""
                 fill
                 sizes="32px"
